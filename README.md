@@ -1,5 +1,5 @@
-###Open in vscode to run the program
-###to run the backend of the project inside book folder
+### Open in vscode to run the program
+### to run the backend of the project inside book folder
 ```
 dotnet run
 ```
