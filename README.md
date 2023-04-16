@@ -1,18 +1,9 @@
-# Quasar App (books-frontend)
-
-##Open in vscode for the backend then
+##Open in vscode to run the program
+##to run the backend of the project inside book folder
 ```
 dotnet run
 ```
-
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### For front-end , open View/books_frontend then
 ```bash
 npm run serve
 ```
